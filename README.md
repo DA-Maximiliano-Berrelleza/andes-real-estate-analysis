@@ -36,4 +36,6 @@ El notebook reúne las validaciones de datos, las fórmulas DAX, la descripción
 
 [Ver el notebook y las fórmulas DAX en GitHub](./Andes_Portafolio.ipynb)
 
+[Ver el dashboard de Power BI en PDF](./Andes_Dashboard.pdf)
+
 [Consultar la copia en Colab](https://colab.research.google.com/drive/1DL2DzEfTRer2mO-rOrhhOSc5oSGnJ-Jr?usp=sharing)
